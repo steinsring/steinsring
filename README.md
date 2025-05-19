@@ -1,5 +1,13 @@
-## Hi there 👋
+### 진행한 프로젝트
 
+#### 캐치 메모리
+![image](https://github.com/user-attachments/assets/7e68d3cf-bb65-4e74-954d-690d0b7a56d2)
+![image](https://github.com/user-attachments/assets/f68cdb85-3533-452f-a209-8f2c1504c5e6)
+https://play.google.com/store/apps/details?id=com.ExP_CatchMemory.CatchMemory&hl=ko
+
+#### The Campus
+https://youtu.be/-x30Kjvm3Gc
+https://play.google.com/store/apps/details?id=com.ExPStudio.TheCampus&hl=ko
 <!--
 **steinsring/steinsring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
